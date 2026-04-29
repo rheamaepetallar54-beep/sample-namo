@@ -9,6 +9,7 @@ $result = $conn->query("SELECT * FROM students");
 
 <head>
     <title>Students CRUD</title>
+    
 </head>
 
 <body>
